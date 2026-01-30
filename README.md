@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="./assets/owlivion-neon.gif" width="200" alt="Owlivion Logo"/>
+</p>
+
+<h1 align="center">BabaFPV</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CED1&center=true&vCenter=true&width=500&lines=FPV+Drone+Pilot;Full+Stack+Developer;Security+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
 ## 💻 Terminal
 
 <p align="center">
