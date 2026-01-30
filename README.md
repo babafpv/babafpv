@@ -8,47 +8,21 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
 ## 🚁 About Me
 
-```yaml
-name: Berkan Cetinel
-alias: babafpv
-location: Turkey 🇹🇷
-website: babafpv.com
+- 🎮 FPV drone pilot & flight instructor
+- 💻 Full Stack Developer (Python, React)
+- 🔐 Security enthusiast & ethical hacker
+- 🌐 [babafpv.com](https://www.babafpv.com)
+- 📍 Turkey
 
-roles:
-  - FPV Drone Pilot & Instructor
-  - Full Stack Developer
-  - Security Researcher
-
-currently:
-  - Building flight training apps
-  - Exploring cybersecurity
-  - Contributing to open source
-```
-
-</td>
-<td valign="top" width="50%">
+---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,docker,linux,postgres,git,vscode,kali&perline=5" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Ethical%20Hacking-000?style=flat-square&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-DevOps-000?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-FPV%20Drones-000?style=flat-square&logo=dji&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-</table>
 
 <br>
 
