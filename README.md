@@ -10,10 +10,11 @@
 
 ## 🚁 About Me
 
-- 🎮 FPV drone pilot & flight instructor
+- 🎮 FPV Drone Pilot & flight instructor
 - 💻 Full Stack Developer (Python, React)
-- 🔐 Security enthusiast & ethical hacker
+- 🔐 Security enthusiast
 - 🌐 [babafpv.com](https://www.babafpv.com)
+- 🌐 [owlivion.com](https://www.owlivion.com)
 - 📍 Turkey
 
 ---
