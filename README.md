@@ -1,13 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=BabaFPV&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%9A%81+FPV+Drone+Pilot;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%94%90+Security+Enthusiast;%E2%9C%A8+Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</p>
-
-<br>
-
 ## 💻 Terminal
 
 <p align="center">
